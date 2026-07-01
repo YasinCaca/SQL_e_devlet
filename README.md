@@ -50,4 +50,4 @@ Projede hedeflenen tüm fonksiyonlar başarıyla gerçekleştirilmiştir:
 - Güvenlik amacıyla gerekli kullanım analizleri yapılmaktadır.
 - Ek geliştirmelere uygun modüler bir yapı oluşturulmuştur.
 
-Bu rapor, projenin analiz, tasarım ve geliştirme aşamalarını kapsamlı biçimde özetlemektedir.
+Bu raporda projenin analiz, tasarım ve geliştirme aşamalarını kapsamlı biçimde özetledim.
